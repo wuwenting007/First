@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Toptabbar</string>
+    <string name="main_city">Choose your city : %1$s</string>
+</resources>
